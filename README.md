@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 GitHub Stats & 📚 Top Languages
+## GitHub Stats & Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angie-kinya&show_icons=true&theme=tokyonight" alt="Angela's GitHub Stats" width="45%" />
@@ -20,26 +20,15 @@
 
 ---
 
-<details>
-  <summary>🐍 Contribution Graph</summary>
+## Featured Projects
 
-  <br>
-
-  ![Snake animation](https://github.com/angie-kinya/angie-kinya/blob/output/github-contribution-grid-snake.svg)
-
-</details>
+- [Argus](https://github.com/angie-kinya/Argus) - An AI-powered tool, using OpenAI-gpt-3.5, that helps developers review their code and receive suggestions for improvements.
+- [AuditAI](https://github.com/angie-kinya/AuditAI) - An AI-powered chatbot designed to assist with IT compliance and audit-related questions. The chatbot is trained on key compliance frameworks.
+- [TaskPilot](https://github.com/angie-kinya/TaskPilot) - This project is a lightweight task management system built using Laravel (PHP) and SQLite for task manangement activities.
 
 ---
 
-## 🚀 Featured Projects
+## Connect with me
 
-- 🧠 [Argus](https://github.com/angie-kinya/Argus)
-- 📈 [AuditAI](https://github.com/angie-kinya/AuditAI)
-- 🖼️ [TaskPilot](https://github.com/angie-kinya/TaskPilot)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/angela-kinya)
-- 📧 Email: angiekinya670[at]gmail.com
+- [LinkedIn](https://www.linkedin.com/in/angela-kinya)
+- Email: angiekinya670@gmail.com
