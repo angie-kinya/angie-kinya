@@ -11,19 +11,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 📚 Top Languages
 
-![Angela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angie-kinya&show_icons=true&theme=tokyonight)
-
-## 📚 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angie-kinya&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angie-kinya&show_icons=true&theme=tokyonight" alt="Angela's GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angie-kinya&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
-## 🐍 Contribution Graph
+<details>
+  <summary>🐍 Contribution Graph</summary>
 
-![snake gif](https://github.com/angie-kinya/angie-kinya/blob/output/github-contribution-grid-snake.svg)
+  <br>
+
+  ![Snake animation](https://github.com/angie-kinya/angie-kinya/blob/output/github-contribution-grid-snake.svg)
+
+</details>
 
 ---
 
