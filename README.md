@@ -33,10 +33,11 @@
 
 ### Argus
 **AI Code Reviewer**
-```
-GPT-3.5 • Code Analysis
-Smart Suggestions
-```
+
+`GPT-3.5 
+Code Analysis 
+Smart Suggestions`
+
 **[→ Explore](https://github.com/angie-kinya/Argus)**
 
 </td>
@@ -44,10 +45,11 @@ Smart Suggestions
 
 ### AuditAI  
 **Compliance Automation**
-```
-IT Frameworks • Chatbot
-Audit Intelligence
-```
+
+`IT Frameworks
+Chatbot
+Audit Intelligence`
+
 **[→ Explore](https://github.com/angie-kinya/AuditAI)**
 
 </td>
@@ -55,10 +57,11 @@ Audit Intelligence
 
 ### TaskPilot
 **Task Orchestration**
-```
-Laravel • SQLite
-Lightweight Management
-```
+
+`Laravel
+SQLite
+Lightweight Management`
+
 **[→ Explore](https://github.com/angie-kinya/TaskPilot)**
 
 </td>
