@@ -12,10 +12,26 @@
 <summary>📊 <b>GitHub Analytics</b></summary>
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angie-kinya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angie-kinya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<table>
+<tr>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angie-kinya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500)
+
+</td>
+<td width="50%">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angie-kinya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</td>
+</tr>
+</table>
+
+
+### 📈 Contribution Activity
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angie-kinya&theme=tokyonight)
 
 </div>
 
