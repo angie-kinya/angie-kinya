@@ -57,14 +57,14 @@ Smart Suggestions`
 </td>
 <td width="33%" bgcolor="#0d1117">
 
-### AuditAI  
-**Compliance Automation**
+### QuantumForge 
+**3D particle simulation**
 
-`IT Frameworks
-Chatbot
-Audit Intelligence`
+`Three.js
+React
+Rendering`
 
-**[→ Explore](https://github.com/angie-kinya/AuditAI)**
+**[→ Explore](https://github.com/angie-kinya/QuantumForge)**
 
 </td>
 <td width="33%" bgcolor="#0d1117">
