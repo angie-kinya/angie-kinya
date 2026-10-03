@@ -8,7 +8,7 @@ I love working on software applications, models and agents, and running the stat
 ### Current work and research interest
 
 **Astralis** · A self improving agent for burnout conversations. It retrieves its own research from OpenAlex, keeps what it learns across sessions, and reweights what it surfaces from feedback.
-`Go` `Python` `Embeddings`
+`Go` `Python` `Embeddings` -> https://astralis-lab.dev/
 
 ### Spotlight
 
